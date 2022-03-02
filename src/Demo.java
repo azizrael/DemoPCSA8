@@ -2,7 +2,7 @@
 public class Demo {
 	public static void main(String[] args) {
 		System.out.println("Hi from local");
-		//Hello from the other side
+		//hi from github
 	}
 
 }
